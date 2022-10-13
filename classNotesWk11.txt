@@ -1,0 +1,95 @@
+# Author: William Z Chadwick
+# Date Created: 10/12/2022
+# Date Modified: 10/12/2022
+# Description: A place for my class notes for Week 11 of Promineo Tech Front End Bootcamp
+
+---
+
+I missed the last week of class and notes due to baby being born. :) [We've been sick, too! ugh]
+
+And I started class late today because I got back late from getting food for my family.
+
+[breathing, feeling mild anxiety about this, sadly]
+
+---
+
+Not going to learn all the APIs.
+
+DOM is an API
+
+Canvas API for graphics
+
+Geolocation API has to ask permission for location. Has to.
+
+Drag and Drop API; Media Streaming Recording APIs.... Vibration API, speech, we b crypto. XMLHttpRequest (one of the original APIs)
+
+---
+
+Tic Tac Toe assignment.
+
+Adding events. clickable events in JS and AJAX, JQuery, and w API. [DOM =/= AJAX?]
+
+call back event listener; function passed to another function.
+
+Web Ninja on Youtube? Code Ninja? Free Code Camp.
+
+The Anatomy of a URL
+
+URL: https://www.youtube.com/results?search_query=how+the+web+works
+
+Protocol -- https://
+Subdomain -- www.
+Domain -- youtube.com
+Path -- /results
+Query -- ?
+Parameters -- search_query=how+the+web+works
+
+interesting
+
+using 3rd party APIs.
+
+Client --> HTTP request: --> Server
+Server --> HTTP response: --> Client
+
+3rd party free APIs. Bc a lot of APIs I guess aren't free. ...
+
+---
+
+Synchronous vs Asynchronous
+
+---
+
+Verb -- description
+
+GET retrieve information
+POST create something new
+PUT update something
+PATCH update part of something
+DELETE destroy something
+
+APIs used to pass information back and forth.
+
+CRUD - a database term, but overlaps with other things;
+
+CRUD = [
+Creating Data
+Reading Data
+Updating Data
+Deleting Data
+];
+
+---
+
+going over the tic tac toe game mechanics.
+
+event bubbling.
+
+(using the parent)
+
+responding to an event.
+
+using event bubbling to tell what was clicked. "what was clicked?" event bubbling... hm
+
+---
+
+........ still recovering from being sick, and had some anxiety and fatigue throughout this class. took less notes than I really wanted to.
